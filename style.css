@@ -1,0 +1,19 @@
+img {
+    width: 40%;
+    display: block;
+}
+
+
+/* Classes for assignment 2 */
+
+.red {
+    background-color: red;
+}
+
+.green {
+    background-color: green;
+}
+
+.blue {
+    background-color: blue;
+}
